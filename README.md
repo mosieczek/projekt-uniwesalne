@@ -1,1 +1,1 @@
-# projekt-uniwesalne
+# Aplikacje do projektu z projektowania uniwersalnego
